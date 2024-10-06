@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-xxl navbar-dark " aria-label="Seventh navbar example">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">Ensar M.</a>
+        <a className="navbar-brand" href="#home">Ensar M.</a>
         <button 
           className="navbar-toggler" 
           type="button" 
